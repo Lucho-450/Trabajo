@@ -1,0 +1,6 @@
+{
+  "name": "Portal Académico Universitario & Asistente IA",
+  "description": "Fase 1 del Sistema de Gestión Académica (SIS/LMS) con arquitectura Supabase PostgreSQL, RLS, Function Calling y Chatbot Académico contextual en tiempo real con diseño azul claro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
